@@ -1,0 +1,359 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+#topnav {
+   background: rgb(0, 0, 0);
+}
+
+
+.name {
+    font-size: 2em;
+    margin: 25vh 0px 10vh 0px;
+    text-align: center;
+    background-color: rgba(0,0,0,.8);
+}
+#top-link {
+    margin: 0px;
+    border-top: 2px solid darkgrey;
+    border-bottom: 2px solid darkgrey;
+    font-weight: bold;
+}
+
+.col-2-3 {
+    float: left;
+    width: 66.67%;
+    height: 100%;
+    background: url("coding.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.col-1-3 {
+    float: left;
+    width: 33.33%;
+    height: 100%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(19, 19, 19);
+   
+}
+
+#bg-black {
+    background-color: black;
+} 
+.grid {
+    height: 90%;
+}
+
+
+.btn {
+    background: transparent;
+    color: gold;
+}
+
+.skills ul li {
+    display: inline;
+    margin-left: 5px;
+}
+
+.btn:hover{
+    
+    color: white;
+}
+.vh-83 {
+    height:80vh;
+}
+.intro {
+    margin:0px 25%;
+    overflow-y: scroll;
+    height: 100px;
+}
+
+
+.nav-link:hover {
+ 
+    text-decoration: underline;
+}
+#daniel {
+    height: auto;
+    max-width: 200px;
+    border: 2px solid darkgrey;
+}
+
+
+
+div {
+    width: 100%;
+}
+
+header {
+    border-bottom: 2px groove black;
+    background-color: rgba(0,0,0,0.5);
+    background-size: contain;
+}
+
+input, #time, textarea {
+    background: transparent;
+    width: 60%;
+
+    float: left;
+}
+
+select {
+    color:white;
+}
+
+select:hover {
+    background-color: rgba(0,0,0,0);
+    color: white;
+}
+
+.bg-transparent:hover {
+    background: transparent;
+}
+option{
+    background-color: rgba(0,0,0,0);
+    color: black;
+}
+
+    option:hover {
+        background-color: rgba(0,0,0,0);
+        color: black;
+    }
+.slideimg {
+    width: 100%;
+    height:100%;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0780fa;
+}
+
+a:hover {
+    color: red;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+
+
+
+.border-top {
+  border-top: 1px solid #191919;
+}
+.border-bottom {
+  border-bottom: 1px solid #191919;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+#body1 {
+    /* Margin bottom by footer height */
+    margin-bottom: 0px;
+   
+   
+
+   
+}
+
+#main {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+ 
+
+}
+
+.h-100 {
+    height: 100%;
+}
+.float-right {
+    float: right;
+}
+
+#w-100 {
+  padding-left: 0px;
+  padding-left: 0px;
+
+}
+
+label {
+    width: 40%;
+    margin:0px;
+    padding: 0px;
+    float: left;
+}
+
+
+#carouselExampleIndicators {
+    height: 45vh;
+    width: 66.67%;
+    float: left;
+}
+form {
+    height: auto;
+    width: 100%;
+    padding: 20vh 15px;
+    float: left;
+    
+}
+#slide1 {
+    background: url("/css/idea.jpg") no-repeat  top;
+    background-size: 100% 100%;
+    padding: 20px;
+    
+   
+    
+}
+
+.col-1-4 {
+    width: 30%;
+    float: left;
+    color: white;
+    
+}
+
+.col-1-2 {
+    width: 50%;
+    float: left;
+}
+
+#form2 {
+    padding: 10px;
+}
+
+#contact, #about, #projects{
+   padding: 20px;
+   
+   
+}
+
+#height1 {
+    height: 80vh;
+}
+
+.bg-black {
+    background-color: rgba(0,0,0,0.5);
+}
+
+#ind {
+   margin:0px;
+   
+}
+
+.footer {
+   
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    /* Vertically center the text there */
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .col-1-2 {
+        width: 100%;
+        height: 50%;
+    }
+    #top-link {
+      
+        margin: 0px;
+        font-weight: bold;
+        text-align: center;
+        border: 0px;
+    }
+
+    footer {
+        width: 100%;
+        bottom: 0;
+        position: fixed;
+    }
+
+    a.navbar-brand {
+        width: 80%;
+        border: 0px;
+    }
+
+    .col-1-3 {
+        width: 100%;
+    
+    }
+
+    .col-2-3 {
+        width: 100%;
+    }
+
+    #carouselExampleIndicators {
+        height: 45vh;
+        width: 100%;
+        float: left;
+    }
+
+    
+    form {
+        height: 45vh;
+        width: 100%;
+        padding: 10px 15px;
+        float: left;
+        border: 2px solid black;
+    }
+
+    .name {
+        font-size: 2em;
+        margin: 10px;
+        text-align: center;
+    }
+
+    #home1 {
+        height: 100%;
+      
+    }
+    .intro {
+        margin: 0 5%;
+    }
+}
+

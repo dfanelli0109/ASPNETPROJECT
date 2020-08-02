@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Welcome to Daniel's web development portfolio. E: daniel@danielfanelli.me" />
+    <meta name="author" content="Daniel Fanelli" />
+    <title>@ViewData["Title"] - Daniel Fanelli</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+      <link rel="stylesheet" href="~/css/site.css" />
+   
+</head>
+<body id="body1">
+   
+        <header>
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow" id="topnav">
+                <div class="container">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img id="daniel" src="~/lib/Daniel.jpg" height="250" /></a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" jvbu></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                        <ul class="navbar-nav">
+                            <li class="nav-item" id="top-link">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>
+                            <li class="nav-item" id="top-link">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="About">About</a>
+                            </li>
+                            <li class="nav-item" id="top-link">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Projects">Projects</a>
+                            </li>
+                            <!--- <li class="nav-item" id="top-link">
+         <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Prices">Prices</a>
+     </li>-->
+                            <li class="nav-item" id="top-link">
+                                <a class="nav-link text-warning" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+       
+  
+        <div id="main">
+
+            <main role="main" >
+                @RenderBody()
+            </main>
+
+
+            <footer class="border-top footer text-muted" id="bg-black">
+                <div class="footer-copyright text-center py-3">
+                    <p class="footer-copyright text-center text-white py-3">&copy; 2020 - Daniel Fanelli | The owner of Webceptional Design Co. is a proud graduate of  <a class="font-light" href="http://www.ucf.edu">University of Central Florida</a> and <a class="font-light" href="http://www.woz-u.com">Woz-U Web Development Bootcamp</a>- <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></p>
+                </div>
+            </footer>
+        </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

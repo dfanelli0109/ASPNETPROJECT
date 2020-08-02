@@ -1,0 +1,84 @@
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Webceptional Design Co.exe
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Webceptional Design Co.deps.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Webceptional Design Co.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Webceptional Design Co.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Webceptional Design Co.dll
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Webceptional Design Co.pdb
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Webceptional Design Co.Views.dll
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\bin\Debug\netcoreapp3.1\Webceptional Design Co.Views.pdb
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\staticwebassets\Webceptional Design Co.StaticWebAssets.Manifest.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\staticwebassets\Webceptional Design Co.StaticWebAssets.xml
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorAssemblyInfo.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorAssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.TagHelpers.input.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.TagHelpers.output.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorCoreGenerate.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Prices.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Works.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MyPartial.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorTargetAssemblyInfo.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorTargetAssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.Views.pdb
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.dll
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.pdb
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\obj\Debug\netcoreapp3.1\Webceptional Design Co.csproj.CopyComplete
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Webceptional Design Co.exe
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Webceptional Design Co.deps.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Webceptional Design Co.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Webceptional Design Co.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Webceptional Design Co.dll
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Webceptional Design Co.pdb
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Webceptional Design Co.Views.dll
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\bin\Debug\netcoreapp3.1\Webceptional Design Co.Views.pdb
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\staticwebassets\Webceptional Design Co.StaticWebAssets.Manifest.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\staticwebassets\Webceptional Design Co.StaticWebAssets.xml
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorAssemblyInfo.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorAssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.TagHelpers.input.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.TagHelpers.output.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorCoreGenerate.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Works.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MyPartial.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorTargetAssemblyInfo.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.RazorTargetAssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.Views.pdb
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.dll
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.pdb
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.csproj.CopyComplete
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Webceptional Design Co.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\PartyRSVPapp2\Webceptional Design Co Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
